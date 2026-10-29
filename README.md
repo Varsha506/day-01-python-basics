@@ -1,2 +1,3 @@
 # day-01-python-basics
-variables, data types, operators
+topics covered : variables, data types, operators
+date : 29-10-2026
